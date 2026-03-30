@@ -4,12 +4,6 @@
 
 <!-- TODO: Add a relevant project logo (e.g., an icon of a cow with a medical cross) -->
 <!-- ![Logo](assets/logo.png) -->
-
-[![GitHub stars](https://img.shields.io/github/stars/RasheshDesai/Livestock-Sickness-Prediction-System?style=for-the-badge)](https://github.com/RasheshDesai/Livestock-Sickness-Prediction-System/stargazers)
-
-[![GitHub forks](https://img.shields.io/github/forks/RasheshDesai/Livestock-Sickness-Prediction-System?style=for-the-badge)](https://github.com/RasheshDesai/Livestock-Sickness-Prediction-System/network)
-
-[![GitHub issues](https://img.shields.io/github/issues/RasheshDesai/Livestock-Sickness-Prediction-System?style=for-the-badge)](https://github.com/RasheshDesai/Livestock-Sickness-Prediction-System/issues)
 <!-- TODO: Add license badge if a license file is created -->
 <!-- [![GitHub license](https://img.shields.io/github/license/RasheshDesai/Livestock-Sickness-Prediction-System?style=for-the-badge)](LICENSE) -->
 
