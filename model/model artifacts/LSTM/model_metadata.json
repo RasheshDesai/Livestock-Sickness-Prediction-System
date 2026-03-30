@@ -1,0 +1,23 @@
+{
+    "model_type": "LSTM",
+    "sequence_length": 96,
+    "num_features": 9,
+    "features": [
+        "temp",
+        "airTemp",
+        "humidity",
+        "accel",
+        "rumination",
+        "ageInDays",
+        "aveHerdTemp",
+        "THI",
+        "rumination_per_day"
+    ],
+    "optimal_threshold": 0.9448205828666687,
+    "test_auc": 0.9991191855246069,
+    "test_recall": 0.970919458303635,
+    "test_precision": 0.935063152114223,
+    "preclinical_window": "1-3 days before detection",
+    "training_date": "2025-11-17",
+    "class_balance": "6.12%"
+}

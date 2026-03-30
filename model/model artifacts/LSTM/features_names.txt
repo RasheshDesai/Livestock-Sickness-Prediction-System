@@ -1,0 +1,9 @@
+temp
+airTemp
+humidity
+accel
+rumination
+ageInDays
+aveHerdTemp
+THI
+rumination_per_day
