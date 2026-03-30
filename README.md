@@ -102,11 +102,6 @@ The project can be deployed by running the individual components:
 -   The pre-processing and model training stages are typically executed as batch jobs or on-demand using Jupyter/Python scripts.
 -   The dashboard can be deployed as a web application on cloud platforms (e.g., AWS, GCP, Azure, Heroku, Vercel) or on a local server.
 
-## 🙏 Acknowledgments
-
--   The developers of Python and its rich ecosystem of data science and machine learning libraries (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn).
--   The Jupyter project for providing an interactive environment for development.
-
 ---
 
 <div align="center">
