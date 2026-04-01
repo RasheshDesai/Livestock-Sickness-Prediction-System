@@ -64,46 +64,6 @@ Livestock-Sickness-Prediction-System/
         └── LSTM/       
 ```
 
-## ⚙️ Configuration
-
-This project primarily uses configuration defined within the Jupyter notebooks and Python scripts themselves.
--   **Data Paths**: Input and output data paths are typically configured at the beginning of relevant notebooks.
--   **Model Parameters**: Hyperparameters and model-specific settings are set directly in the model training scripts.
-
-For a production deployment, it is advisable to externalize these configurations into dedicated files (e.g., `.env`, `config.ini`, or `YAML`) for easier management.
-
-## 🔧 Development
-
-### Running Jupyter Notebooks
-To work on the data processing and model development:
-```bash
-# From the project root
-jupyter notebook
-```
-Then navigate to the `Pre-Processing` or `model` directories within the Jupyter interface to open and run the notebooks.
-
-### Development Workflow
-1.  **Data Acquisition**: Ensure your raw livestock data is available (not included in this repository due to potential privacy/size).
-2.  **Pre-processing**: Iterate on notebooks in `Pre-Processing/` to clean and transform data.
-3.  **Model Building**: Develop and train models in `model/`. Experiment with different algorithms and parameters.
-4.  **Evaluation**: Use notebooks to evaluate model performance and identify areas for improvement.
-5.  **Dashboard Development**: If enhancing the dashboard, work within the `Dashboard/` directory and test locally.
-
-## 🧪 Testing
-
-Testing in a data science project often involves:
--   **Data Validation**: Checking data quality and consistency during pre-processing.
--   **Model Performance Evaluation**: Using metrics like accuracy, precision, recall, F1-score, AUC, etc., on validation and test sets.
--   **Unit Tests for Utility Functions**: Standard Python `unittest` or `pytest` could be used.
-
-## 🚀 Deployment
-
-The project can be deployed by running the individual components:
--   The pre-processing and model training stages are typically executed as batch jobs or on-demand using Jupyter/Python scripts.
--   The dashboard can be deployed as a web application on cloud platforms (e.g., AWS, GCP, Azure, Heroku, Vercel) or on a local server.
-
----
-
 <div align="center">
 
 **⭐ Star this repo if you find it helpful!**
