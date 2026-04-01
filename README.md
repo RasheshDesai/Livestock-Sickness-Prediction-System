@@ -24,6 +24,8 @@ The Livestock Sickness Prediction System is a data science and machine learning 
 ### Dashboard Overview
 ![Dashboard Overview](Outputs/Dsahboard%20image1.png)
 
+![Temperature Timelines](Outputs/Temperature-Timeline.png)
+
 ### Heatmap Distribution
 ![Heatmap Distribution](Outputs/Heat-Map-Distribution.png)
 *Detailed heatmap showcasing data distribution patterns across various health metrics.*
