@@ -30,9 +30,11 @@ The Livestock Sickness Prediction System is a data science and machine learning 
 # Rumination Timeline
 
 
-### Heatmap Distribution
+### Heatmap Alerts Distribution
 ![Heatmap Distribution](Outputs/Heat-Map-Distribution.png)
 *Detailed heatmap showcasing data distribution patterns across various health metrics.*
+
+### Heatmap Healthy Distribution
 ![Heatmap Distribution](Outputs/Healthy.png)
 
 ### Disease Classification Results
