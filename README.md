@@ -10,6 +10,9 @@
 
 The Livestock Sickness Prediction System is a data science and machine learning project designed to help farmers and agricultural professionals proactively identify potential health issues in their livestock. By processing relevant data, the system trains predictive models that can forecast the onset of sickness, enabling timely intervention, reducing economic losses, and promoting better animal welfare. This repository contains the complete pipeline from data pre-processing to model training and a dashboard for visualization of insights and predictions.
 
+For **Exploratory Data Analysis** of the dataset refer to this link:
+-> https://github.com/RasheshDesai/livestock-monitoring-dashboard
+
 ## ✨ Features
 
 -   🎯 **Data Pre-processing**: Robust handling and cleaning of raw livestock health data.
